@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLPerformancePlayground", "SQLPerformancePlayground\SQLPerformancePlayground.csproj", "{9E058793-A886-4D7B-9F11-86F103CCDCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E058793-A886-4D7B-9F11-86F103CCDCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E058793-A886-4D7B-9F11-86F103CCDCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E058793-A886-4D7B-9F11-86F103CCDCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E058793-A886-4D7B-9F11-86F103CCDCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4058BA71-2437-416F-87CE-41B7255A04DD}
+	EndGlobalSection
+EndGlobal
